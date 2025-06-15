@@ -53,3 +53,9 @@ _(Spanish audio, but can explain explained in English or Portuguese upon request
 **Original dataset (`df_eng.csv`)**  
 Available on Kaggle:  
 [https://www.kaggle.com/datasets/razauhaq/english-songs-lyrics](https://www.kaggle.com/datasets/razauhaq/english-songs-lyrics)
+
+---
+
+## ✉️ Contact
+
+ajcarrascoseda@hotmail.com
