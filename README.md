@@ -38,7 +38,7 @@ You are welcome to explore the logic of the project using the files in this repo
 
 ## 🎬 Demo Videos
 
-_(Spanish audio, but I can explain in English or Portuguese upon request)_
+_(Spanish audio, but can explain explained in English or Portuguese upon request)_
 
 - **Dashboard run-through**  
   [Watch on Google Drive](https://drive.google.com/file/d/1IFKBPy-Yg9G75zCG5PLbb6Od8x2nE3nH/view?usp=drive_link)
